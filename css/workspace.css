@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  /*margin: 0;
+  padding: 0;
+  box-sizing: border-box;*/
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+form#regForm > h1 {
+    color: #626290;
+    font-weight: 600;
+}
+.tab {
+    color: #848484;
+}
+.tab p input {
+    border: 0;
+    background-color: white;
+    border-radius: 4px;
+}
+.tab p input::placeholder{
+  color: #626290;
+  font-size: 16px;
+  font-weight: 500;
+}
+button {
+    background-color: #2C8DC9;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-family: Raleway;
+    cursor: pointer;
+}
+.step.active {
+    opacity: 1;
+    background-color: #626290;
+}
+#regForm {
+    background-color: #DEDEE7;
+    margin: 100px auto;
+    font-family: Raleway;
+    padding: 40px;
+    width: 70%;
+    min-width: 300px;
+}
+
+h1 {
+  text-align: center;  
+}
+
+input {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+}
+
+/* Mark input boxes that gets an error on validation: */
+input .invalid {
+  background-color: #ffdddd;
+}
+
+.invalid-lbl{
+  color: red;
+}
+
+/* Hide all steps by default: */
+.tab {
+  display: none;
+}
+
+button {
+    background-color: #2C8DC9;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.step.finish {
+    background-color: #bbbbbb !important;
+}
+button:hover {
+  opacity: 0.8;
+}
+
+#prevBtn {
+  background-color: #bbbbbb;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #4CAF50;
+}
+
+
+.Loader {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba( 255, 255, 255, .8) url(../images/loader.gif) 50% 50% no-repeat;
+}
+
+@media (max-width: 767px){
+#regForm {
+  margin: 0 !important;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+form#regForm > h1 {
+    font-size: 30px;
+}
+.tab {
+    width: 100% !important;
+}
+.tab p input {
+    width: 100%;
+    box-sizing: border-box;
+}
+}

@@ -1,0 +1,199 @@
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-Bold.ttf');
+ font-weight: bold;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-SemiBold.ttf');
+ font-weight: bolder;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli.ttf');
+ font-weight: normal;
+}
+
+.wrap-login100 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.signup-titles {
+    width: 75%;
+    margin: auto;
+}
+
+.signup-form-title {
+    font-size: 50px;
+    font-family: Muli;
+    font-weight: 600;
+    color: #3F3D56;
+    margin-bottom: 20px;
+}
+.signup-form-subtitle {
+    font-size: 26px;
+    color: #595959;
+    margin-bottom: 20px;
+    margin-left: 4px;
+}
+
+.error{
+    color: red;
+}
+
+.signup-right-img img{
+	width: 100%;
+}
+span.login100-form-title {
+    font-size: 40px;
+    font-family: Muli;
+}
+.wrap-input100.validate-input input {
+    padding: 5px;
+    font-size: 14px;
+    font-family: Muli;
+    width: 100%;
+}
+.container-login100-form-btn button {
+    width: 100%;
+    background: #3C3F56;
+    color: #fff;
+    border: none;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.container-login100-form-btn input {
+    width: 100%;
+    background: #3C3F56;
+    color: #fff;
+    border: none;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.wrap-input100.validate-input {
+    margin: 10px 0;
+        width: 100%;
+}
+.security-notice {
+    font-size: 14px;
+    font-family: Muli;
+}
+form.login100-form.validate-form {
+    width: 30%;
+    flex: 1;
+}
+.signup-right-img {
+    width: 35%;
+    margin-left: 10%;
+    flex: 1;
+}
+/*.signup-right-img {
+    width: 24%;
+    margin-left: 25%;
+}*/
+
+.container-login100-form-btn{
+	width: 100%;
+}
+
+.alreadyReg{
+font-size: 14px;
+    font-family: Muli;
+  margin-top: 50px;
+      /*margin-bottom: 40px;*/
+      color: #595959;
+  }
+
+
+.alreadyReg a{
+	color: #595959;
+}
+
+
+.email-notice {
+    position: absolute;
+    top: 0;
+    width: 75%;
+    left: 104%;
+    font-size: 14px;
+    background-color: #F6C57C;
+    color: #ffffff;
+    padding: 10px 10px;
+    display: none;
+}
+
+.email-main {
+    position: relative;
+}
+
+@media (max-width: 768px){
+    .signup-form-title {
+        font-size: 35px;
+    }
+    .signup-form-subtitle{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 576px) {
+		form.login100-form.validate-form {
+	    width: 100%;
+	    padding: 0px 15px;
+	}
+
+	.signup-right-img{
+		display: none;
+	}
+
+	.email-notice {
+		position: inherit;
+  		top: 0;
+	    width: 100%;
+	    left: 0;
+	    font-size: 14px;
+	    background-color: #F6C57C;
+	    color: #ffffff;
+	    padding: 10px 10px;
+	    margin-top: 8px;
+	}
+
+     .signup-titles{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .signup-form-title {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .signup-form-subtitle{
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+}
+
+@media (max-width: 300px)
+{
+.signup-form-subtitle {
+    font-size: 14px;
+}
+.signup-form-title {
+    font-size: 20px;
+}
+}
+
+
+
+
+

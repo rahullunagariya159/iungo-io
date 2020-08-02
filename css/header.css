@@ -1,0 +1,143 @@
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-Bold.ttf');
+ font-weight: bold;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-SemiBold.ttf');
+ font-weight: bolder;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli.ttf');
+ font-weight: normal;
+}
+
+
+.Loader {
+    display: none;
+    position: fixed;
+    z-index: 9999999;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba( 255, 255, 255, .8) url(../images/loader.gif) 50% 50% no-repeat;
+}
+
+
+.swal-overlay--show-modal .swal-modal {
+    
+    will-change: inherit !important;
+}
+
+.header {
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+    margin: 20px 0px;
+}
+
+
+
+.header-menu ul {
+	    margin-bottom: 0;
+}
+
+.header-menu ul li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+.header-menu ul li.create-space-tab a {
+    color: #00BFA6 !important;
+    font-weight: 700;
+} 
+
+.header-menu ul li a {
+    color: #7F7F82 !important;
+    cursor: pointer;
+}
+.logo-text {
+    font-size: 40px;
+    font-weight: 500;
+    color: #3F3D56 !important;
+}
+
+.nimbus-is-editor{
+	background-color: #fffef9 !important;
+}
+
+
+.mobile-header {
+  display: inline-block;
+  cursor: pointer;
+   display: none;
+}
+
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+
+
+
+
+@media (max-width: 576px) {
+
+.header {
+    position: relative;
+    padding: 0 15px;
+}
+.header-menu {
+    height: 48%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 24px;
+    transform: translateX(110%);
+    box-shadow: 0px 14px 25px rgba(0,0,0,.4);
+}
+.header-menu.show {
+    transform: translateX(0%);
+}
+
+.header-menu ul li {
+    display: block;
+    padding: 10px 15px;
+}
+
+.mobile-header {
+     display: block;
+    position: relative;
+    z-index: 1;
+}
+
+}
+
+
+

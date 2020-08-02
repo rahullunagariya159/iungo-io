@@ -1,0 +1,226 @@
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-Bold.ttf');
+ font-weight: bold;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli-SemiBold.ttf');
+ font-weight: bolder;
+}
+@font-face {
+ font-family: Muli;
+ src: url('../fonts/muli/Muli.ttf');
+ font-weight: normal;
+}
+
+.wrap-login100 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.signup-titles {
+    width: 100%;
+}
+
+.signup-form-title {
+    font-size: 40px;
+    font-family: Muli;
+    font-weight: 600;
+    color: #3F3D56;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+
+.signup-form-subtitle, .email-verify-title {
+    font-size: 15px;
+    color: #595959;
+    margin-bottom: 20px;
+    margin-left: 4px;
+    width: 90%;
+}
+
+
+.signup-right-img img{
+	width: 100%;
+}
+span.login100-form-title {
+    font-size: 40px;
+    font-family: Muli;
+}
+.wrap-input100.validate-input input {
+    padding: 5px;
+    font-size: 14px;
+    font-family: Muli;
+    width: 100%;
+}
+.container-login100-form-btn button {
+    width: 100%;
+    background: #3C3F56;
+    color: #fff;
+    border: none;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.wrap-input100.validate-input {
+    margin: 10px 0;
+        width: 100%;
+}
+
+
+.security-notice {
+    font-size: 14px;
+    font-family: Muli;
+}
+
+form.login100-form.validate-form {
+    margin-top: 0;
+    width: 32%;
+}
+
+.signup-right-img {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 120px;
+}
+
+
+.container-login100-form-btn{
+	width: 100%;
+}
+
+.alreadyReg{
+font-size: 14px;
+    font-family: Muli;
+  margin-top: 50px;
+      margin-bottom: 40px;
+      color: #595959;
+  }
+
+
+.alreadyReg a{
+	color: #595959;
+}
+
+
+.email-notice {
+    position: absolute;
+    top: 0;
+    width: 75%;
+    left: 104%;
+    font-size: 14px;
+    background-color: #F6C57C;
+    color: #ffffff;
+    padding: 10px 10px;
+    display: none;
+}
+
+.email-main {
+    position: relative;
+}
+
+
+.wrap-input100.validate-input , .container-login100-form-btn {
+    margin: 10px 0;
+    width: 50%;
+}
+
+
+@media (max-width: 1024px)
+{
+    .signup-right-img {
+        width: 30%;
+    }
+
+    form.login100-form.validate-form {
+        margin-top: 0;
+        width: 50%;
+    }
+    .signup-form-title {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 768px){
+    .signup-form-title {
+        font-size: 35px;
+    }
+    .signup-form-subtitle{
+        font-size: 16px;
+    }
+
+    .signup-form-subtitle, .email-verify-title {
+        font-size: 16px;
+    }
+    .wrap-input100.validate-input, .container-login100-form-btn {
+        margin: 10px 0;
+        width: 60%;
+    }
+    .signup-form-title {
+        font-size: 35px;
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 576px) {
+		form.login100-form.validate-form {
+	    width: 100%;
+	    padding: 0px 15px;
+	}
+
+	.signup-right-img{
+		display: none;
+	}
+
+	.email-notice {
+		position: inherit;
+  		top: 0;
+	    width: 100%;
+	    left: 0;
+	    font-size: 14px;
+	    background-color: #F6C57C;
+	    color: #ffffff;
+	    padding: 10px 10px;
+	    margin-top: 8px;
+	}
+
+     .signup-titles{
+        width: 100%;
+        padding: 0 15px;
+    }
+    .signup-form-title {
+        font-size: 25px;
+        margin-bottom: 10px;
+        white-space: inherit;
+    }
+    .signup-form-subtitle{
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+
+     .wrap-input100.validate-input, .container-login100-form-btn {
+        margin: 10px 0;
+        width: 100%;
+    }
+    .signup-titles{
+        padding: 0;
+    }
+}
+
+@media (max-width: 300px)
+{
+    .signup-form-subtitle {
+        font-size: 14px;
+    }
+    .signup-form-title {
+        font-size: 20px;
+    }
+}
+
+
+

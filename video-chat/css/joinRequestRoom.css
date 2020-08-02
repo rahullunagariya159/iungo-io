@@ -1,0 +1,5 @@
+.joiningCardStatus{
+	margin: 0 auto !important; /* Added */
+        float: none !important; /* Added */
+        margin-bottom: 10px !important; /* Added */
+}

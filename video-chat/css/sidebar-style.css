@@ -1,0 +1,83 @@
+.btn-create{
+	justify-content: center;
+    text-align: center;
+    background-color: #1c1c2b;
+    outline-color: #1c1c2b;
+    border-color: #ecedf3;
+    color: #ecedf3;
+    box-shadow: 1px 0px 3px 0px #ffff;
+    margin-left: 60px;
+
+}
+
+.btn-create:hover{
+	justify-content: center;
+    text-align: center;
+    background-color:#ecedf3;
+    outline-color: #1c1c2b;
+    border-color: #1c1c2b;
+     color: #1c1c2b;
+    box-shadow: 1px 0px 3px 0px #ffff;
+}
+
+
+.app-space-mem{
+    width: 246px;
+    margin-left: 11px;
+
+}
+
+.select2-search__field{
+    width: 28.55em !important; 
+}
+
+.privateRbt{
+          padding-left: 40px !important;
+}
+
+
+.vTypE{
+    color: #45474be8;
+}
+
+.vTypE:hover{
+        cursor: pointer;
+       
+        color: #161617;
+
+}
+
+.privLock{
+        color: white;
+        font-size: 15px !important;
+}
+
+
+.venueEdit{
+    color: white;
+    cursor: pointer;
+}
+
+
+.Loader {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba( 255, 255, 255, .8) url(../siteImages/loader.gif) 50% 50% no-repeat;
+}
+
+
+.pendingMemBtn{
+
+    margin-left: 22px;
+    margin-top: 15px;
+}
+
+
+.sidebar_mn{
+        margin-top: 16px;
+}

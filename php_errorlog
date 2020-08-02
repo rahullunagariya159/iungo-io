@@ -1,0 +1,247 @@
+[25-Apr-2020 00:43:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/index.php on line 110
+[25-Apr-2020 00:44:10 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/index.php on line 76
+[25-Apr-2020 00:46:00 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/index.php on line 71
+[25-Apr-2020 00:49:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/iungo.io/public_html/index.php on line 70
+[25-Apr-2020 01:03:44 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/validate.php on line 9
+[25-Apr-2020 01:07:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/validate.php on line 8
+[26-Apr-2020 01:34:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/signup.php on line 174
+[26-Apr-2020 01:36:34 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/signup.php on line 174
+[26-Apr-2020 01:40:00 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/signup.php on line 174
+[28-Apr-2020 10:04:21 CST6CDT] PHP Parse error:  syntax error, unexpected '$membersup' (T_VARIABLE), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/requests.php on line 137
+[28-Apr-2020 10:15:03 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:147
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 147
+[28-Apr-2020 10:18:09 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:148
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 148
+[28-Apr-2020 10:21:09 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:149
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 149
+[28-Apr-2020 10:22:12 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:150
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 150
+[28-Apr-2020 10:23:19 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:150
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 150
+[28-Apr-2020 10:25:26 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot unset string offsets in /home/customer/www/iungo.io/public_html/requests.php:150
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/admin.php(66): include()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/requests.php on line 150
+[28-Apr-2020 13:02:22 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:03:29 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:22:11 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:23:30 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:23:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:23:46 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[28-Apr-2020 13:24:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/admin.php on line 100
+[26-Jun-2020 04:54:33 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/iungo.io/public_html/createworkspace.php on line 104
+[26-Jun-2020 04:58:04 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/iungo.io/public_html/createworkspace.php on line 104
+[26-Jun-2020 07:08:59 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/server.php on line 51
+[27-Jun-2020 02:15:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/server.php on line 78
+[29-Jun-2020 00:33:24 CST6CDT] PHP Parse error:  syntax error, unexpected '$user_check_query' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/createworkspace.php on line 32
+[29-Jun-2020 01:41:53 CST6CDT] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/iungo.io/public_html/authenticate.php on line 22
+[29-Jun-2020 01:42:26 CST6CDT] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/iungo.io/public_html/authenticate.php on line 22
+[04-Jul-2020 02:12:40 CST6CDT] PHP Parse error:  syntax error, unexpected '$generalRoomAddExec' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/createworkspace.php on line 114
+[08-Jul-2020 05:53:36 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/authenticate.php on line 54
+[27-Jul-2020 05:59:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' in /home/customer/www/iungo.io/public_html/signupverify.php on line 4
+[27-Jul-2020 23:48:03 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:48:03 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:48:03 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:48:03 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:48:04 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:49:06 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[27-Jul-2020 23:50:44 CST6CDT] PHP Fatal error:  Cannot use empty array elements in arrays in /home/customer/www/iungo.io/public_html/signupverify.php on line 73
+[28-Jul-2020 03:50:07 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/iungo.io/public_html/signupconfirm.php on line 13
+[28-Jul-2020 04:47:45 CST6CDT] PHP Fatal error:  require(): Failed opening required './src/Exception.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php on line 5
+[28-Jul-2020 04:49:07 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(8868, 'kokegital@maili...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 04:57:11 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(7992, 'segajyd@mailina...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 04:57:58 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(4337, 'xodar@mailinato...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:00:21 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:1858
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(6988, 'test1002.dds@gm...')
+#4 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 1858
+[28-Jul-2020 05:00:58 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(1298, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:02:11 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(8291, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:15:30 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(1182, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:23:40 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(7142, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:23:41 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(4421, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:23:43 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(2147, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:23:49 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(1581, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:24:58 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(6107, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:29:05 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(3994, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:32:39 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(35): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(5259, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 05:52:26 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(5258, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php on line 2037
+[28-Jul-2020 05:58:01 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(4089, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php on line 2037
+[28-Jul-2020 05:59:31 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(42): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(9432, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php on line 2037
+[28-Jul-2020 06:00:47 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(42): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(4278, 'rahul132.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/src/PHPMailer.php on line 2037
+[28-Jul-2020 06:03:04 CST6CDT] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php:2037
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1857): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1600): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 28 J...', '<div style='jus...')
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php(1436): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(42): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo(8323, 'test1002.dds@gm...')
+#5 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/PHPMailer.php on line 2037
+[28-Jul-2020 06:56:38 CST6CDT] PHP Fatal error:  Uncaught phpmailerException: Could not instantiate mail function. in /home/customer/www/iungo.io/public_html/phpsendmail/phpmailer/class.phpmailer.php:1507
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/phpsendmail/phpmailer/class.phpmailer.php(1337): PHPMailer->mailSend('Date: Tue, 28 J...', 'This is a multi...')
+#1 /home/customer/www/iungo.io/public_html/phpsendmail/phpmailer/class.phpmailer.php(1213): PHPMailer->postSend()
+#2 /home/customer/www/iungo.io/public_html/phpsendmail/emailSendApi.php(106): PHPMailer->send()
+#3 /home/customer/www/iungo.io/public_html/signupverify.php(121): iungo2(7073, 'test1002.dds@gm...')
+#4 {main}
+  thrown in /home/customer/www/iungo.io/public_html/phpsendmail/phpmailer/class.phpmailer.php on line 1507
+[28-Jul-2020 07:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/customer/www/iungo.io/public_html/signupverify.php on line 129
+[28-Jul-2020 07:07:02 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/customer/www/iungo.io/public_html/signupverify.php on line 129
+[29-Jul-2020 00:56:14 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/signupconfirm.php on line 43

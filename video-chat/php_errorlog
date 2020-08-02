@@ -1,0 +1,281 @@
+[20-May-2020 05:42:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$last_url' (T_VARIABLE), expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 14
+[23-May-2020 00:24:28 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 45
+[23-May-2020 01:44:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 87
+[01-Jun-2020 23:15:01 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 2
+[01-Jun-2020 23:15:37 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 2
+[02-Jun-2020 02:17:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php:22
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/video-chat/chatroom.php(53): include_once()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 22
+[02-Jun-2020 04:06:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 44
+[02-Jun-2020 04:06:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 44
+[02-Jun-2020 04:06:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 44
+[02-Jun-2020 04:30:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 53
+[02-Jun-2020 04:30:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 53
+[02-Jun-2020 05:03:12 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 258
+[02-Jun-2020 05:03:15 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 258
+[02-Jun-2020 06:16:50 CST6CDT] PHP Parse error:  syntax error, unexpected '" WHERE id='"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 23
+[02-Jun-2020 06:16:54 CST6CDT] PHP Parse error:  syntax error, unexpected '" WHERE id='"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 23
+[02-Jun-2020 06:17:11 CST6CDT] PHP Parse error:  syntax error, unexpected '" WHERE id='"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 23
+[02-Jun-2020 06:18:39 CST6CDT] PHP Parse error:  syntax error, unexpected '" WHERE id='"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 18
+[02-Jun-2020 06:18:43 CST6CDT] PHP Parse error:  syntax error, unexpected '" WHERE id='"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 18
+[02-Jun-2020 06:30:38 CST6CDT] PHP Parse error:  syntax error, unexpected '"/profileImages/"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 15
+[02-Jun-2020 06:30:43 CST6CDT] PHP Parse error:  syntax error, unexpected '"/profileImages/"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 15
+[02-Jun-2020 06:41:23 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 307
+[02-Jun-2020 06:50:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 38
+[04-Jun-2020 23:33:25 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 303
+[04-Jun-2020 23:33:33 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 303
+[04-Jun-2020 23:34:15 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 303
+[05-Jun-2020 00:12:53 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 24
+[05-Jun-2020 00:13:17 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 24
+[05-Jun-2020 00:14:20 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 24
+[05-Jun-2020 04:07:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'iff' (T_STRING), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 371
+[09-Jun-2020 03:44:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 262
+[09-Jun-2020 03:44:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 262
+[09-Jun-2020 03:45:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 262
+[11-Jun-2020 00:35:50 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 322
+[11-Jun-2020 00:42:19 CST6CDT] PHP Warning:  Unterminated comment starting line 84 in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 84
+[11-Jun-2020 23:46:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 129
+[11-Jun-2020 23:46:34 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 129
+[11-Jun-2020 23:47:10 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 129
+[12-Jun-2020 00:17:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 43
+[12-Jun-2020 23:06:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function setInterval() in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 149
+[12-Jun-2020 23:06:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function setInterval() in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 149
+[12-Jun-2020 23:25:34 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 334
+[12-Jun-2020 23:38:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 331
+[12-Jun-2020 23:42:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 331
+[12-Jun-2020 23:43:20 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 331
+[12-Jun-2020 23:50:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[12-Jun-2020 23:50:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[12-Jun-2020 23:56:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[13-Jun-2020 00:02:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[13-Jun-2020 00:03:27 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[13-Jun-2020 00:05:11 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 329
+[15-Jun-2020 07:00:00 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 226
+[15-Jun-2020 07:00:08 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 226
+[15-Jun-2020 07:00:13 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 226
+[15-Jun-2020 07:00:57 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 222
+[15-Jun-2020 07:01:05 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 222
+[18-Jun-2020 02:26:47 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:26:55 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:32:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:32:07 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:32:50 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:32:53 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 132
+[18-Jun-2020 02:33:29 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 131
+[18-Jun-2020 02:33:56 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 129
+[18-Jun-2020 06:51:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 756
+[18-Jun-2020 06:51:47 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 756
+[18-Jun-2020 06:51:51 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 756
+[19-Jun-2020 00:20:44 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '{' or '$' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 333
+[19-Jun-2020 03:25:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 03:25:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 03:25:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 03:25:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 03:29:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 352
+[19-Jun-2020 03:29:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 352
+[19-Jun-2020 03:29:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 352
+[19-Jun-2020 04:42:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 04:42:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 347
+[19-Jun-2020 04:44:03 CST6CDT] PHP Warning:  Unterminated comment starting line 169 in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 169
+[19-Jun-2020 04:44:03 CST6CDT] PHP Warning:  Unterminated comment starting line 169 in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 169
+[19-Jun-2020 04:44:03 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 348
+[19-Jun-2020 05:04:08 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:17:29 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:17:29 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:43:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:44:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:45:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:56:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 05:56:37 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 351
+[19-Jun-2020 06:05:52 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:52 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:55 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:55 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:56 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:05:58 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:01 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:01 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:07 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:07 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:10 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:10 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:12 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 06:06:15 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 363
+[19-Jun-2020 23:00:45 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 823
+[19-Jun-2020 23:00:51 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 823
+[19-Jun-2020 23:49:47 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 794
+[20-Jun-2020 00:36:43 CST6CDT] PHP Parse error:  syntax error, unexpected '$check_venue_member' (T_VARIABLE), expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 147
+[22-Jun-2020 00:11:48 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/customer/www/iungo.io/public_html/video-chat/moderator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/moderator.php on line 28
+[22-Jun-2020 00:11:56 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/customer/www/iungo.io/public_html/video-chat/moderator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/moderator.php on line 28
+[22-Jun-2020 00:12:35 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/customer/www/iungo.io/public_html/video-chat/moderator.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/moderator.php on line 29
+[22-Jun-2020 00:30:38 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/iungo.io/public_html/video-chat/moderator.php on line 45
+[22-Jun-2020 00:30:48 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/iungo.io/public_html/video-chat/moderator.php on line 45
+[25-Jun-2020 00:20:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 34
+[26-Jun-2020 04:09:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 6
+[26-Jun-2020 04:10:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 6
+[26-Jun-2020 04:10:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 6
+[26-Jun-2020 04:10:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 6
+[29-Jun-2020 05:17:19 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/spaceRequest.php on line 19
+[29-Jun-2020 05:17:57 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/spaceRequest.php on line 19
+[29-Jun-2020 05:19:38 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/spaceRequest.php on line 19
+[29-Jun-2020 05:20:16 CST6CDT] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/customer/www/iungo.io/public_html/video-chat/spaceRequest.php on line 19
+[29-Jun-2020 07:10:40 CST6CDT] PHP Parse error:  syntax error, unexpected '"canceled"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/iungo.io/public_html/video-chat/spaceRequest.php on line 50
+[07-Jul-2020 01:52:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 51
+[07-Jul-2020 05:11:19 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 673
+[07-Jul-2020 05:22:56 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 554
+[07-Jul-2020 05:22:59 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 554
+[07-Jul-2020 05:23:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 554
+[07-Jul-2020 05:23:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 554
+[07-Jul-2020 05:23:52 CST6CDT] PHP Parse error:  syntax error, unexpected '$findOwnerOfSpace' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 10
+[07-Jul-2020 05:23:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$findOwnerOfSpace' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 10
+[07-Jul-2020 05:23:58 CST6CDT] PHP Parse error:  syntax error, unexpected '$findOwnerOfSpace' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 10
+[07-Jul-2020 05:25:03 CST6CDT] PHP Parse error:  syntax error, unexpected '$findOwnerOfSpace' (T_VARIABLE) in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 10
+[07-Jul-2020 05:35:16 CST6CDT] PHP Parse error:  syntax error, unexpected ''venueActi' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 52
+[08-Jul-2020 00:05:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:33 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 00:05:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/customer/www/iungo.io/public_html/video-chat/gethint.php on line 27
+[08-Jul-2020 02:02:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php:860
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/video-chat/index.php(54): include_once()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 860
+[08-Jul-2020 02:02:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php:860
+Stack trace:
+#0 /home/customer/www/iungo.io/public_html/video-chat/index.php(54): include_once()
+#1 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 860
+[09-Jul-2020 01:01:09 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:09 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:11 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:11 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:14 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:14 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:23 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 01:01:25 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 471
+[09-Jul-2020 06:29:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:10 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:29:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:26 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[09-Jul-2020 06:30:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 285
+[10-Jul-2020 02:02:15 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 925
+[10-Jul-2020 02:02:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 925
+[10-Jul-2020 02:02:42 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 925
+[10-Jul-2020 04:17:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/customer/www/iungo.io/public_html/video-chat/sidebar.php on line 1350
+[10-Jul-2020 23:18:47 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 332
+[10-Jul-2020 23:19:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 332
+[10-Jul-2020 23:20:39 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 333
+[11-Jul-2020 00:05:44 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 277
+[13-Jul-2020 05:33:21 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 347
+[16-Jul-2020 01:40:40 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 348
+[16-Jul-2020 01:42:57 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 349
+[16-Jul-2020 01:43:43 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 349
+[16-Jul-2020 05:49:20 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 306
+[16-Jul-2020 05:49:30 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 306
+[19-Jul-2020 23:31:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function msqli_fetch_assoc() in /home/customer/www/iungo.io/public_html/video-chat/index.php:212
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 212
+[20-Jul-2020 00:26:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 205
+[22-Jul-2020 05:18:20 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/iungo.io/public_html/video-chat/chatroom.php on line 202
+[24-Jul-2020 07:16:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 518
+[24-Jul-2020 07:16:04 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/iungo.io/public_html/video-chat/index.php on line 518
